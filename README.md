@@ -2,6 +2,7 @@
 ## 4. semester
 *This repository is made for keeping track of my Android assignments. Which only contain files from the source folder.*
 
+* Week 6. Create a "Company Business-card app" with at least 3 pages.
 * Week 7. Create an app called MyNotebook.
 * Week 8. Expand on your app "MyNotebook" from previous week.
 * Week 9. Create an app "My Personal Notes" which allows the user to: Create a new note Save notes to Firestore.
